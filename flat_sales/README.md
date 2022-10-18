@@ -28,23 +28,6 @@
 
 ### Задача
 Используя данные сервиса Яндекс.Недвижимость, определить:
-- когда можно считать, что продажи прошли очень быстро, а когда необычно долго;
-- какие факторы больше всего влияют на стоимость квартиры;
-- отличаются ли квартиры в центре Санкт-Петербурга от квартир по всему городу.
-
-### Выводы
-- если квартира уходит с рынка в первые 50 дней, то можно сказать, что продажа прошла быстро;
-- на стоимость квартиры больше всего влияют: площадь и количество комнат. Так же следует учитывать, что самый дешевый - это первый этаж, а ближе к центру цена выше;
-- квартиры в центре Санкт-Петербурга отличаются от квартир по всему городу высотой потолков, большей общей площадью, цена квадратного метра выше и размах цен больше. В центре этажность зданий меньше, а сами квартиры продаются дольше.
-
-### Навыки и инструменты
-- предобработка данных;
-- исследовательский анализ данных;
-- визуализация данных.
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://matplotlib.org/_static/images/logo2.svg" title="Matplotlib" alt="Matplotlib" width="60" height="40"/>&nbsp;
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="Seaborn" alt="Seaborn" width="60" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>
-  </div>
+- когда можно считать, что продажи прошли очень быстро, а когда необычно долго
+- какие факторы больше всего влияют на стоимость квартиры
+- отличаются ли квартиры в центре Санкт-Петербурга от квартир по всему городу
