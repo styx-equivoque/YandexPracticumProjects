@@ -1,6 +1,6 @@
 ## Учебный проект: Создание дашборда по пользовательским событиям для агрегатора новостей
 
-### Посмотреть дашборд:
+### Посмотреть дашборд
 <div id="badges">
   <a href="https://public.tableau.com/app/profile/anastasia4500/viz/YandexPracticum_TableauProject/Dashboard">
     <img src="https://i0.wp.com/sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website.jpg?ssl=1" alt="TableauDashboard" width="80" height="80"/>
